@@ -1,0 +1,13 @@
+com/dov/banking/controller/DashboardController.class
+com/dov/banking/config/MvcConfig.class
+com/dov/banking/config/DBConfig.class
+com/dov/banking/model/Account.class
+com/dov/banking/model/User.class
+com/dov/banking/repository/AccountJpaRepository.class
+com/dov/banking/repository/OperationJpaRepository.class
+com/dov/banking/controller/AccountController.class
+com/dov/banking/controller/OperationController.class
+com/dov/banking/repository/UserJpaRepository.class
+com/dov/banking/controller/LoginController.class
+com/dov/banking/model/Operation.class
+com/dov/banking/config/WebAppInitializer.class

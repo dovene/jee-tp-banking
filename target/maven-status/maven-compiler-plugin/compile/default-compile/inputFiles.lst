@@ -1,0 +1,13 @@
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/model/Account.java
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/repository/OperationJpaRepository.java
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/repository/AccountJpaRepository.java
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/controller/DashboardController.java
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/controller/AccountController.java
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/model/User.java
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/controller/OperationController.java
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/config/DBConfig.java
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/config/WebAppInitializer.java
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/repository/UserJpaRepository.java
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/model/Operation.java
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/config/MvcConfig.java
+/Users/doveneagogue/Dev/JavaEE/BankingB7/src/main/java/com/dov/banking/controller/LoginController.java
